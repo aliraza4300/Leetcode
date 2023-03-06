@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-var removeDuplicates = function(nums) {
+var removeElement = function(nums) {
     var j = 0;
 
     for (var i = 0; i < nums.length; i++){
