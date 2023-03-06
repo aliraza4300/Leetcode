@@ -18,3 +18,8 @@
 
 [My solution](26_Remove_Duplicates_from_Sorted_Array.js)
 
+
+## [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/910269982/)
+
+[My solution](27_Remove_Element.js)
+
